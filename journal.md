@@ -44,3 +44,6 @@ What I don't like: <br />
 
 I wouldn't say I __don't like__ this, but I certainly would've prefered some lights because lights are just so cool and futuristic
 
+#### Finally, the style I've decided on is...
+
+Using large flat matte black overriding panels, for the main body of the keyboard in order to give it an aggressive silhouette and a brutalist look. I'll also mix it with some metallic parts for the areas with fine details such as the space right below the keycaps and maybe also other detailed areas that I'll add just for stylistic purposes. And the cherry on top would be the LEDs, I don't know where I'll add these just yet because I want them to also be functional and not just stylistic, but I will try to shape them into long narrow strips.
