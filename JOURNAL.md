@@ -6,6 +6,8 @@ created_at: "2026-08-30"
 ---
 
 ### August 30: Brainstorming Product Design and Searching for Inspiration<br />
+**Total time spent: 2.1 hours (recorded by lapse)** <br />
+**Lapse https://lapse.hackclub.com/timelapse/ZgiozcMpgFNb**
 
 The first thing I want to work on for this split keeb is to determine exact the design style I want to use. <br />
 Right now, I'm gravitating towards some sort of mix between brutalism and futurism. <br />
@@ -54,5 +56,5 @@ I wouldn't say I __don't like__ this, but I certainly would've prefered some lig
 
 #### Finally, the style I've decided on is...
 
-Using large flat matte black overriding panels, for the main body of the keyboard in order to give it an aggressive silhouette and a brutalist look. I'll also mix it with some metallic parts for the areas with fine details such as the space right below the keycaps and maybe also other detailed areas that I'll add just for stylistic purposes. And the cherry on top would be the LEDs, I don't know where I'll add these just yet because I want them to also be functional and not just stylistic, but I will try to shape them into long narrow strips.
-**Total time spent: 2.1 hours (recorded by lapse)**
+Using large flat matte black overriding panels, for the main body of the keyboard in order to give it an aggressive silhouette and a brutalist look. I'll also mix it with some metallic parts for the areas with fine details such as the space right below the keycaps and maybe also other detailed areas that I'll add just for stylistic purposes. And the cherry on top would be the LEDs, I don't know where I'll add these just yet because I want them to also be functional and not just stylistic, but I will try to shape them into long narrow strips.<br />
+
