@@ -14,6 +14,7 @@ I'll also document my thoughts on each design highlighting what I like and what 
 Afterwards, I'll probably finish the PCB before diving any deeper in the design, so I'd have a solid foundation to model over, hopefully leading to fewer design iterations. <br />
 But let me stick to brainstorming the design right now, because I don't want to get too ahead of myself.<br />
 My main inspiration for the design when I was imagining was batman's batmobile from the dark night so I'll start with that<br />
+
 #### 1- The Tumbler from ``Batman Begins: The Dark Night`` 
 <img width="1200" height="839" alt="image" src="https://github.com/user-attachments/assets/ca3b58be-f475-4d49-9ec0-ef716614d864" />
 What I like:
@@ -54,3 +55,4 @@ I wouldn't say I __don't like__ this, but I certainly would've prefered some lig
 #### Finally, the style I've decided on is...
 
 Using large flat matte black overriding panels, for the main body of the keyboard in order to give it an aggressive silhouette and a brutalist look. I'll also mix it with some metallic parts for the areas with fine details such as the space right below the keycaps and maybe also other detailed areas that I'll add just for stylistic purposes. And the cherry on top would be the LEDs, I don't know where I'll add these just yet because I want them to also be functional and not just stylistic, but I will try to shape them into long narrow strips.
+**Total time spent: 2.1 hours (recorded by lapse)**
