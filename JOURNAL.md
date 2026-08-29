@@ -1,3 +1,10 @@
+---
+title: "RIFT Mk. I"
+author: "Yahya"
+description: "The RIFT(Refined Input Feel Technology) Mk. I keyboard is an ergonomic split keyboard with an industrial, brutalist, yet futuristic design."
+created_at: "2026-08-30"
+---
+
 ### August 30: Brainstorming Product Design and Searching for Inspiration<br />
 
 The first thing I want to work on for this split keeb is to determine exact the design style I want to use. <br />
